@@ -4,6 +4,7 @@ Azure Project  Summary: when new file is add to 'BLOB' it will transfer that fil
 You can use the resoure group Templete and open azure service called Custom templete and upload your project
 
 Resource Group Of My Project: https://drive.google.com/file/d/1OEk6...
+YOUTUBE VIDEO LINK OF PROJECT: https://www.youtube.com/watch?v=Mbb_aJYeyjI
 
 Overview
 So, there's a client who wants to access the internet and enter the Azure portal. When they add a blob file, a trigger will be activated in a Logic App. The Logic App will then transfer the file to Azure File Storage so that the on-premises server can also access the files added in the blob. To establish this real-time file synchronization, Azure Storage Sync Services are used to connect the on-premises server and Azure File share unidirectionally.
