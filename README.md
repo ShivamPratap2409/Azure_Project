@@ -4,6 +4,8 @@ Azure Project  Summary: when new file is add to 'BLOB' it will transfer that fil
 You can use the resoure group Templete and open azure service called Custom templete and upload your project
 
 Resource Group Of My Project: https://drive.google.com/file/d/1OEk6...
+
+
 YOUTUBE VIDEO LINK OF PROJECT: https://www.youtube.com/watch?v=Mbb_aJYeyjI
 
 Overview
