@@ -1,5 +1,5 @@
 # Azure_Project
-Azure Project  Summary: when new file is add to 'BLOB' it will transfer that file to 'FILE SHARE' and get an EMAIL with the CONTENT of the File and also get SMS on PHONE that 'new file is added' and using Storage Sync Service the on premise Client can view the same file which is added to blob.
+**Azure Project Summary:** when new file is add to 'BLOB' it will transfer that file to 'FILE SHARE' and get an EMAIL with the CONTENT of the File and also get SMS on PHONE that 'new file is added' and using Storage Sync Service the on premise Client can view the same file which is added to blob.
 
 You can use the resoure group Templete and open azure service called Custom templete and upload this project there
 Resource Group Of My Project: https://drive.google.com/file/d/1OEk62gZQLex6W1k6MdAKY9_5DNwjKz45/view
@@ -8,7 +8,7 @@ Resource Group Of My Project: https://drive.google.com/file/d/1OEk62gZQLex6W1k6M
 YOUTUBE VIDEO LINK OF PROJECT: https://www.youtube.com/watch?v=Mbb_aJYeyjI
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Overview
+**Overview**
 So, there's a client who wants to access the internet and enter the Azure portal. When they add a blob file, a trigger will be activated in a Logic App. The Logic App will then transfer the file to Azure File Storage so that the on-premises server can also access the files added in the blob. To establish this real-time file synchronization, Azure Storage Sync Services are used to connect the on-premises server and Azure File share unidirectionally.
 After the blob content is transferred to the file share, the Logic App calls an API, which sends an email notifying the content that was added or modified. Additionally, a third-party service called Twilio is used to send an SMS to the client's phone indicating that a new blob file has been added.
 To create the on-premises environment, Azure Infrastructure as a Service (IaaS) is employed, utilizing a virtual machine (VM) within a subnet of a virtual network. Another subnet in the same virtual network holds a firewall. Incoming public requests first pass through the firewall, which only allows entry to the virtual network if firewall rules are satisfied. The virtual machine is connected to the firewall.
@@ -31,7 +31,7 @@ Flow Chat of Project:
 
 
 
-Flow chat explanation 
+**Flow chat explanation** 
 
 1.	Client will use internet to access the Azure Portal.
 
@@ -63,5 +63,38 @@ One subnet is only for firewall and other subnet is for Vm1 so when VM1 what to 
 11.	Inside the Vm1 we have a monitoring service called Alert and condition is created that when CPU usage is more than 50% then I should get a warning message that usage of CPU is increased.
 
 12.	I have also used LOCK in Vm1. By creating lock on VM1 no one can delete the VM1 unless and until file is deleted so nobody will by mistakenly delete the Vm1.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Services Used** 
+
+1. Logic App
+Azure Logic App is a Microsoft cloud-based service that provides a visual way to create and execute workflows and integrations between different systems and services. It allows you to automate business processes, workflows, and data integrations across various applications, services, and platforms. Logic Apps are built using a graphical designer, where you can define a series of steps and actions, known as triggers and connectors, to achieve a desired outcome.
+
+2. Azure Blob Storage
+Azure Blob Storage is a cloud-based object storage service provided by Microsoft Azure. It offers a scalable and secure solution for storing vast amounts of unstructured data, such as images, videos, documents, logs, and any other type of file.
+
+3. Azure File Share
+Azure File Share is a cloud-based file storage service provided by Microsoft Azure. It allows you to create and manage network file shares that can be accessible from multiple virtual machines (VMs) or other Azure services.
+
+4. Azure Storage Sync Services
+Provide synchronization of files and folders between on-premises servers and Azure storage. It allows you to replicate data between your local file servers and Azure File Shares or Azure Blob storage.
+
+5. Virtual Networks
+A virtual network acts as a logically isolated network within a public cloud environment, allowing you to provision and manage your own virtual network configuration.
+
+6. Virtual Machine
+It’s a physical computer system, with its own operating system and applications running on it. It enables users to run multiple independent instances of a computer system on a single physical machine or across multiple physical machines.
+
+7. Firewall
+Azure Firewall is a cloud-based network security service provided by Microsoft Azure. It acts as a centralized firewall solution for protecting virtual networks in Azure. Azure Firewall allows you to create and enforce network and application-level access control policies to secure your Azure resources. 
+
+8. Monitor-Alerts
+Monitor Alerts is a service provided by Microsoft Azure that helps you monitor and respond to changes in your Azure resources. It allows you to set up proactive notifications and automated actions based on metric values, log search queries, and various other conditions.
+
+9. Twilio (3rd party)
+Twilio is a cloud communications platform that enables businesses to easily integrate messaging, voice, and video capabilities into their applications. It provides a set of APIs and tools that developers can use to build and manage communication features in their software applications.
+
+
 
 
