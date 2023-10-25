@@ -26,7 +26,7 @@ Doc File of same PDF
 
 
 
-Flow Chat of Project:
+Flow Chat of Project: (__used Figma to create this Flow chat__)
 ![flow-1](https://github.com/ShivamPratap2409/Azure_Project/assets/140940680/7392ff3a-1511-4b1d-946f-010fe8d48065)
 
 
