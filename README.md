@@ -96,6 +96,57 @@ Monitor Alerts is a service provided by Microsoft Azure that helps you monitor a
 9. Twilio (3rd party)
 Twilio is a cloud communications platform that enables businesses to easily integrate messaging, voice, and video capabilities into their applications. It provides a set of APIs and tools that developers can use to build and manage communication features in their software applications.
 
+____________________________________________________________________________________________________________________________________________________________________________________
+
+![Screenshot (75)](https://github.com/ShivamPratap2409/Azure_Project/assets/140940680/fd950ab4-000a-499f-b64f-02c33a35fd8c)
+![Screenshot (74)](https://github.com/ShivamPratap2409/Azure_Project/assets/140940680/ffc112a4-e342-4896-8389-aa41f425d528)
+![Screenshot (73)](https://github.com/ShivamPratap2409/Azure_Project/assets/140940680/1df05315-05db-47fe-aa24-87042104861c)
+![Screenshot (72)](https://github.com/ShivamPratap2409/Azure_Project/assets/140940680/2a9995ee-7f50-4ffd-8a41-c043c0059354)
+![Screenshot (71)](https://github.com/ShivamPratap2409/Azure_Project/assets/140940680/0a7a5ca7-3a8a-4384-8bc8-bc309d58b059)
+![Screenshot (70)](https://github.com/ShivamPratap2409/Azure_Project/assets/140940680/ac4d1eea-a8db-4ab8-8a68-5af959443d6e)
+![Screenshot (69)](https://github.com/ShivamPratap2409/Azure_Project/assets/140940680/420cbac1-7a96-41a4-9952-61a90e47df04)
+![Screenshot (4)](https://github.com/ShivamPratap2409/Azure_Project/assets/140940680/56e04d12-8cbf-4d5e-8502-d59e6d7b5ea6)
+![Screenshot (3)](https://github.com/ShivamPratap2409/Azure_Project/assets/140940680/a969b32c-cf5e-4c55-8011-81eb25e96905)
+![Screenshot (2)](https://github.com/ShivamPratap2409/Azure_Project/assets/140940680/f844455c-e5e7-45a3-8a90-a67c3c09d0b7)
+![Screenshot (1)](https://github.com/ShivamPratap2409/Azure_Project/assets/140940680/cabacd7d-f14e-4f68-b9e7-89357b0e2ade)
+![Screenshot (76)](https://github.com/ShivamPratap2409/Azure_Project/assets/140940680/55a47cfd-eb00-4349-836c-876afcb81858)
+![Screenshot (86)](https://github.com/ShivamPratap2409/Azure_Project/assets/140940680/d05f8939-cda4-49a1-90be-5b3d722d3935)
+![Screenshot (85)](https://github.com/ShivamPratap2409/Azure_Project/assets/140940680/70df9ca1-e687-4142-b05f-c6e051872791)
+![Screenshot (84)](https://github.com/ShivamPratap2409/Azure_Project/assets/140940680/8dbe4841-b63c-4ce9-a0e7-fb30d870c222)
+![Screenshot (83)](https://github.com/ShivamPratap2409/Azure_Project/assets/140940680/cfc22414-67b8-42f4-bc32-230b27fd9941)
+![Screenshot (82)](https://github.com/ShivamPratap2409/Azure_Project/assets/140940680/3e05c4bf-38dd-4f90-9db2-7ea6b6346d5c)
+![Screenshot (81)](https://github.com/ShivamPratap2409/Azure_Project/assets/140940680/6caf6e97-5d92-4c94-9f54-938775f03974)
+![Screenshot (80)](https://github.com/ShivamPratap2409/Azure_Project/assets/140940680/8b60b3ae-0203-4900-afef-7a83f8f64d0b)
+![Screenshot (79)](https://github.com/ShivamPratap2409/Azure_Project/assets/140940680/bf5dea2f-fb99-429d-b6f6-818efb18b629)
+![Screenshot (78)](https://github.com/ShivamPratap2409/Azure_Project/assets/140940680/4a770c34-3fb3-42b7-927f-77ffca9ad350)
+![Screenshot (77)](https://github.com/ShivamPratap2409/Azure_Project/assets/140940680/c36747ef-b1b8-4a45-914c-e489386c69db)
+![Screenshot (88)](https://github.com/ShivamPratap2409/Azure_Project/assets/140940680/8ad6774d-2672-4b69-8ce3-0846d4bb99b4)
+![Screenshot (87)](https://github.com/ShivamPratap2409/Azure_Project/assets/140940680/cb36c6e7-8092-4bb2-8ba2-091f81a54e5b)
+
+
+![Screenshot (101)](https://github.com/ShivamPratap2409/Azure_Project/assets/140940680/0dce44fd-5ecd-4f8f-b18a-ebce73ef005b)
+![Screenshot (100)](https://github.com/ShivamPratap2409/Azure_Project/assets/140940680/0c4e16e1-c099-4aa3-a829-80fe57a096c1)
+![Screenshot (99)](https://github.com/ShivamPratap2409/Azure_Project/assets/140940680/07436e46-bae5-41ab-9536-d266ccfa9ac9)
+![Screenshot (98)](https://github.com/ShivamPratap2409/Azure_Project/assets/140940680/c87270dd-48ad-4004-a9f9-44754dc98b4b)
+![Screenshot (97)](https://github.com/ShivamPratap2409/Azure_Project/assets/140940680/3792dd09-6a0e-479a-bfc8-8ff09ebb6fe5)
+![Screenshot (96)](https://github.com/ShivamPratap2409/Azure_Project/assets/140940680/9c178a34-beaa-4160-9fca-1397b6f9b25a)
+![Screenshot (95)](https://github.com/ShivamPratap2409/Azure_Project/assets/140940680/f9c01124-87af-4609-a37d-6e3058e7e45c)
+![Screenshot (90)](https://github.com/ShivamPratap2409/Azure_Project/assets/140940680/e8f41705-bc94-49d2-b55a-a46d97a134cf)
+![Screenshot (89)](https://github.com/ShivamPratap2409/Azure_Project/assets/140940680/c352e82a-cc30-4654-b4fe-5b300dda4bbe)
+![Screenshot (104)](https://github.com/ShivamPratap2409/Azure_Project/assets/140940680/25e82071-0a31-42d2-81b7-3d73effd537f)
+![Screenshot (103)](https://github.com/ShivamPratap2409/Azure_Project/assets/140940680/18c5857a-3c53-4881-9222-3b1fbb115fe7)
+![Screenshot (102)](https://github.com/ShivamPratap2409/Azure_Project/assets/140940680/6c3c7f62-40a7-4202-967e-ed403798376e)
+
+![Screenshot (111)](https://github.com/ShivamPratap2409/Azure_Project/assets/140940680/91e9cac9-3f91-4a56-8d55-3ff024b30a42)
+![Screenshot (110)](https://github.com/ShivamPratap2409/Azure_Project/assets/140940680/747089fe-c933-425c-8ee8-0bde26cb1d96)
+![Screenshot (109)](https://github.com/ShivamPratap2409/Azure_Project/assets/140940680/6da30f03-c405-4c8a-9d50-7426cc2d4bcf)
+![Screenshot (108)](https://github.com/ShivamPratap2409/Azure_Project/assets/140940680/ad7a4945-5ed6-4474-858c-be664af69762)
+![Screenshot (107)](https://github.com/ShivamPratap2409/Azure_Project/assets/140940680/97ba3d4d-caad-4562-bd73-401c1ea0cf19)
+![Screenshot (106)](https://github.com/ShivamPratap2409/Azure_Project/assets/140940680/2dd7605f-e1ad-4160-8791-c00804aa7adc)
+![Screenshot (105)](https://github.com/ShivamPratap2409/Azure_Project/assets/140940680/8de31864-e1bb-4186-99e3-2f394ca32c70)
+![Screenshot (113)](https://github.com/ShivamPratap2409/Azure_Project/assets/140940680/8f768a60-68dd-4221-93b5-18ece1f729b4)
+![Screenshot (112)](https://github.com/ShivamPratap2409/Azure_Project/assets/140940680/29c0d1f4-d5d6-4a6f-80dc-e771234345d4)
+
 
 ________________________________________________________________________________________________________________________________________________________________________________________________________
 
