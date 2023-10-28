@@ -96,6 +96,9 @@ Monitor Alerts is a service provided by Microsoft Azure that helps you monitor a
 9. Twilio (3rd party)
 Twilio is a cloud communications platform that enables businesses to easily integrate messaging, voice, and video capabilities into their applications. It provides a set of APIs and tools that developers can use to build and manage communication features in their software applications.
 
+
+__For Screenshots and proper project information how it is create please refer the PDF file attached__
+
 ____________________________________________________________________________________________________________________________________________________________________________________
 
 ![Screenshot (75)](https://github.com/ShivamPratap2409/Azure_Project/assets/140940680/fd950ab4-000a-499f-b64f-02c33a35fd8c)
