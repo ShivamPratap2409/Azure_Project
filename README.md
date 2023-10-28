@@ -6,6 +6,8 @@ You can use the resoure group Templete and open azure service called Custom temp
 Resource Group Of My Project: https://drive.google.com/file/d/1OEk62gZQLex6W1k6MdAKY9_5DNwjKz45/view
 
 **8 mins shot video about project*:* https://www.youtube.com/watch?v=-HVB4Hsj4kQ
+
+
 __*FULL YOUTUBE VIDEO LINK OF PROJECT:*__ https://www.youtube.com/watch?v=Mbb_aJYeyjI
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
