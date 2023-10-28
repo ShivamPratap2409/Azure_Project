@@ -5,8 +5,8 @@ when new file is add to 'BLOB' it will transfer that file to 'FILE SHARE' and ge
 You can use the resoure group Templete and open azure service called Custom templete and upload this project there
 Resource Group Of My Project: https://drive.google.com/file/d/1OEk62gZQLex6W1k6MdAKY9_5DNwjKz45/view
 
-
-YOUTUBE VIDEO LINK OF PROJECT: https://www.youtube.com/watch?v=Mbb_aJYeyjI
+**8 mins shot video about project*:* https://www.youtube.com/watch?v=-HVB4Hsj4kQ
+__*FULL YOUTUBE VIDEO LINK OF PROJECT:*__ https://www.youtube.com/watch?v=Mbb_aJYeyjI
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Overview**
